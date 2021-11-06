@@ -4,7 +4,7 @@ title: Isaac Newtons's CV
 ---
 # Jamal Farhat
 
-Dev Sec Ops Engineer
+Dev-Sec-Ops Engineer
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
